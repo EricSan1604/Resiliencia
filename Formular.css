@@ -1,0 +1,30 @@
+/*ERICK SANTIAGO MARTINEZ HUERTA 403*/
+body{
+	background-color: #66CC33;
+}form{
+	background: white; border: 2px solid black; width: 50%; margin: 0 auto; padding: 0px;
+}h2{
+	background: #FFCC99;margin: 0px; border: 1px solid black; padding:10px; font-size: 6; color: whitesmoke; font-family: Castellar;
+}input[type="radio"]{
+	margin: 10px;
+}input[type="text"]{
+	margin-bottom: 20px; width: 46.5%; padding: 10px; box-sizing: border-box; margin: 10px; cursor: pointer;
+}input[type="email"]{
+	margin-bottom: 20px; width: 46.5%; padding: 10px; box-sizing: border-box; margin: 10px; cursor: pointer;
+}#telefono{
+	margin-bottom: 20px; width: 46.5%; padding: 10px; box-sizing: border-box;
+}#calle_num{
+	margin-bottom: 20px; width: 96.5%; padding: 10px; box-sizing: border-box;
+}input[type="submit"]{
+	margin-bottom:0; background-color: #FF0000; width: 46.5%; padding:10px; box-sizing: border-box; margin: 0 30%; color: white; border: none;
+}input[type="submit"]:hover{
+	background-color: #FF3366;
+}label{
+	display: flex; width: 96.5%;
+}select{
+	margin: 10px;
+}input[type="checkbox"]{
+	margin: 10px;
+}textarea{
+	margin-bottom: 20px; width: 46.5%; padding: 10px; box-sizing: border-box; margin: 10px;cursor: pointer; resize: vertical; max-height: 300px; min-height: 100px;
+}
